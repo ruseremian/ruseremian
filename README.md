@@ -1,22 +1,28 @@
-
 # Hi there, I'm Ruslan! 👋
 
-🎓 I'm a Data Analyst with experience in transforming complex data into concrete and significant recommendations. My core technologies include **SQL, Power BI, SSIS, and Python**.
+🎓 I'm a Data Analyst with experience in transforming complex data into concrete and significant recommendations.
 
 ⚽ Outside of work, I'm a big fan of sports, having participated in judo and football competitions. I also have an interest in esports. Besides, I love traveling and exploring new cultures, having visited many countries across Europe.
 
 ## Technologies I'm using
 
+### Data Engineering:
 ![SQL](https://img.shields.io/badge/-SQL-336791?logo=postgresql&logoColor=white)
-![DAX](https://img.shields.io/badge/-DAX-FF8C00?logo=dynamics-365&logoColor=white)
-![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=power-bi&logoColor=white)
 ![SSIS](https://img.shields.io/badge/-SSIS-5A69A6?logo=microsoft-sql-server&logoColor=white)
-![M](https://img.shields.io/badge/-M%20language%20for%20Power%20Query-CB4A04?logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-CSharp-239120?logo=c-sharp&logoColor=white)
 ![VB](https://img.shields.io/badge/-VB-5D2B90?logo=microsoft-visual-studio&logoColor=white)
 ![VBA](https://img.shields.io/badge/-VBA-5D2B90?logo=microsoft-excel&logoColor=white)
+![T-SQL](https://img.shields.io/badge/-T--SQL-CC2927?logo=microsoft-sql-server&logoColor=white)
+![M](https://img.shields.io/badge/-M%20language%20for%20Power%20Query-CB4A04?logo=microsoft-excel&logoColor=white)
+
+### Data Analysis:
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
+![DAX](https://img.shields.io/badge/-DAX-FF8C00?logo=dynamics-365&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+
+### Data Visualization:
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=power-bi&logoColor=white)
 
 ## 💼 Some of My Work Experiences
 
