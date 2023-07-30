@@ -14,7 +14,6 @@
 ![VB](https://img.shields.io/badge/-VB-5D2B90?logo=microsoft-visual-studio&logoColor=white)
 ![VBA](https://img.shields.io/badge/-VBA-5D2B90?logo=microsoft-excel&logoColor=white)
 ![T-SQL](https://img.shields.io/badge/-T--SQL-CC2927?logo=microsoft-sql-server&logoColor=white)
-![M](https://img.shields.io/badge/-M%20language%20for%20Power%20Query-CB4A04?logo=microsoft-excel&logoColor=white)
 
 ### Data Analysis:
 ![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
@@ -23,6 +22,7 @@
 
 ### Data Visualization:
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=power-bi&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 
 ## 💼 Some of My Work Experiences
 
