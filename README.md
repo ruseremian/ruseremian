@@ -1,5 +1,5 @@
 
-# Hi there, I'm Ruslan EREMIAN! 👋
+# Hi there, I'm Ruslan! 👋
 
 🎓 I'm a Data Analyst with experience in transforming complex data into concrete and significant recommendations. My core technologies include **SQL, Power BI, SSIS, and Python**.
 
