@@ -1,6 +1,6 @@
 # Hi there, I'm Ruslan! 👋
 
-🎓 I'm a Data Analyst with experience in transforming complex data into concrete and significant recommendations.
+🎓 I'm a Data Lover with experience in transforming complex data into concrete and significant recommendations.
 
 ⚽ Outside of work, I'm a big fan of sports, having participated in judo and football competitions. I also have an interest in esports. Besides, I love traveling and exploring new cultures, having visited many countries across Europe.
 
